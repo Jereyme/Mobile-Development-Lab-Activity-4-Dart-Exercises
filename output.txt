@@ -1,0 +1,24 @@
+PARROT INFORMATION
+===================
+Name: Pikachu
+Age: 3 months
+Species: Cockatiel
+Skill: Whistling
+Parrot ID: P001
+Pikachu whistles beautifully.
+-------------------
+Name: Lisa
+Age: 5 months
+Species: African Grey
+Skill: Talking
+Parrot ID: P002
+Lisa talks like a human.
+-------------------
+Special Parrot:
+Name: Mona
+Age: 4 months
+Species: Cockatiel
+Skill: Dancing, Whistling
+Parrot ID: P003
+Mona whistles beautifully.
+The parrot has been fed.
